@@ -2,7 +2,7 @@
 Datei     : config.cpp
 Author    : Oed
 Datum     : 08.01.2016
-Parameter :         
+Parameter :            
 Return    : 
 Aufgabe   : Test der Kalsse config.cpp
 Comp.     : c++ config.cpp -o config
